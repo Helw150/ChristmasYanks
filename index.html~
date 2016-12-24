@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>Love You B</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+        <div class="link-7">
+        <a href="WilliamHeld.com">
+          <span class="thin">Time until </span><span class="thick">we meet again</span>
+        </a>  
+      </div>
+    </div>
+<div id="clockdiv">
+	<div><span class="days"></span><div class="smalltext">Days</div></div>
+	<div><span class="hours"></span><div class="smalltext">Hours</div></div>
+	<div><span class="minutes"></span><div class="smalltext">Minutes</div></div>
+	<div><span class="seconds"></span><div class="smalltext">Seconds</div></div>
+</div>
+<div class="note">
+  <p> I made this website from scratch to try and help quantify our coming time apart. I know the clock seems like a long time, but it will fly by and we will be back in no time at all. I know it is ugly, but I wanted it to be completely from my hands. I will update it each time we see eachother so it always has an accurate count until the next time. The beating of the text is supposed to be some sickeningly cute metaphor for my heart. The clock is counting down to President's day in the U.S. when hopefully I will fly out to Berlin. I love you so very much Priyanka and I'll see you soon.<br> Merry Christmas & Much Love,<br> Will <br><br>
+  P.S. The website domain of PriyankaLakhiani.com is now yours as part of this gift. I put this project under ilove.priyankalakhiani.com because I know you'll try to look at the regular extension the moment I give you a hint.</p>
+</div>
+  
+    <script src="js/index.js"></script>
+
+</body>
+</html>
